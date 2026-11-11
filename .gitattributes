@@ -1,0 +1,7 @@
+experiment.py -text
+cases.json -text
+faro-test/** -text
+pilot/faro-pilot/** -text
+pilot/faro-curl-pilot/** -text
+semantic_review/** -text
+*.csv whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

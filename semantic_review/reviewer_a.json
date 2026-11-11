@@ -1,0 +1,317 @@
+[
+  {
+    "unit": "573b592967",
+    "label": "direct",
+    "reason": "回答纯文本；形式一词只是补全问句。"
+  },
+  {
+    "unit": "eebbddc446",
+    "label": "direct",
+    "reason": "直接给出保存形式纯文本。"
+  },
+  {
+    "unit": "2b0f4150c9",
+    "label": "direct",
+    "reason": "直接给出纯文本，句号不改变含义。"
+  },
+  {
+    "unit": "99363b6a73",
+    "label": "direct",
+    "reason": "直接给出签到须携带的校园卡。"
+  },
+  {
+    "unit": "7802c46ffc",
+    "label": "direct",
+    "reason": "回答校园卡，与共有事实一致。"
+  },
+  {
+    "unit": "944cede59f",
+    "label": "direct",
+    "reason": "直接给出互评应填写的作品编号。"
+  },
+  {
+    "unit": "ce8c00ce69",
+    "label": "direct",
+    "reason": "回答作品编号，与共有事实一致。"
+  },
+  {
+    "unit": "7b8637f46c",
+    "label": "direct",
+    "reason": "直接给出训练前须完成的 GPU 资源预约。"
+  },
+  {
+    "unit": "a8d6b23259",
+    "label": "direct",
+    "reason": "回答 GPU 资源预约，与共有事实一致。"
+  },
+  {
+    "unit": "d9c0feb208",
+    "label": "direct",
+    "reason": "完成 GPU 资源预约即所问事项，未附带事实。"
+  },
+  {
+    "unit": "1898792dd6",
+    "label": "direct",
+    "reason": "先完成 GPU 资源预约，先字复述题中时序。"
+  },
+  {
+    "unit": "41db2868cd",
+    "label": "direct",
+    "reason": "直接给出须记录的设备系统版本。"
+  },
+  {
+    "unit": "31b1b0e038",
+    "label": "direct",
+    "reason": "回答设备系统版本，与共有事实一致。"
+  },
+  {
+    "unit": "3969e7d27b",
+    "label": "direct",
+    "reason": "准确给出展示第一步先讲输入。"
+  },
+  {
+    "unit": "ffba49b1b1",
+    "label": "expanded",
+    "reason": "答出检查对象是页面焦点顺序，并补充共有事实所述的键盘检查方式。"
+  },
+  {
+    "unit": "ebf1625b5d",
+    "label": "direct",
+    "reason": "回答六分钟，题目已限定为时长上限。"
+  },
+  {
+    "unit": "a6146c4271",
+    "label": "direct",
+    "reason": "直接给出时长上限六分钟。"
+  },
+  {
+    "unit": "0233edf994",
+    "label": "direct",
+    "reason": "准确给出最长六分钟，未附带信息。"
+  },
+  {
+    "unit": "f560c4d814",
+    "label": "direct",
+    "reason": "直接给出测试环境为课程镜像。"
+  },
+  {
+    "unit": "9a480ba904",
+    "label": "direct",
+    "reason": "回答课程镜像，与共有事实一致。"
+  },
+  {
+    "unit": "67ba8f9bb5",
+    "label": "direct",
+    "reason": "在完整句中给出课程镜像，其他成分复述题目。"
+  },
+  {
+    "unit": "ba81083784",
+    "label": "direct",
+    "reason": "在课程镜像中运行测试，运行测试是问句框架。"
+  },
+  {
+    "unit": "cce30f4062",
+    "label": "direct",
+    "reason": "直接给出阶段性统计结果的格式 CSV。"
+  },
+  {
+    "unit": "797cfbceed",
+    "label": "direct",
+    "reason": "回答 CSV 格式，与共有事实一致。"
+  },
+  {
+    "unit": "bd3ca6b57a",
+    "label": "direct",
+    "reason": "给出一页局限说明，增加复述题目动作。"
+  },
+  {
+    "unit": "fb223fe808",
+    "label": "expanded",
+    "reason": "答出局限说明，并补充共有事实所述用途，即供提问同学讨论。"
+  },
+  {
+    "unit": "4d9b1a87f4",
+    "label": "direct",
+    "reason": "给出一页局限说明，需增加是问句框架。"
+  },
+  {
+    "unit": "19a933f5d7",
+    "label": "direct",
+    "reason": "直接给出要增加的一页局限说明。"
+  },
+  {
+    "unit": "afb9a93b1f",
+    "label": "direct",
+    "reason": "回答一页局限说明，与共有事实一致。"
+  },
+  {
+    "unit": "815c3d03e1",
+    "label": "direct",
+    "reason": "直接给出空值编码 NA。"
+  },
+  {
+    "unit": "ef04178a5f",
+    "label": "direct",
+    "reason": "直接给出验收地点实验中心 E406。"
+  },
+  {
+    "unit": "36a5c6e807",
+    "label": "direct",
+    "reason": "回答实验中心 E406，与共有事实一致。"
+  },
+  {
+    "unit": "5030724f11",
+    "label": "expanded",
+    "reason": "答出过滤表达式，并补充共有事实所述用途，即复现截图。"
+  },
+  {
+    "unit": "bfe83ff5d1",
+    "label": "direct",
+    "reason": "直接给出须提供的过滤表达式。"
+  },
+  {
+    "unit": "00a7ec2507",
+    "label": "direct",
+    "reason": "回答过滤表达式，与共有事实一致。"
+  },
+  {
+    "unit": "1da4b67b27",
+    "label": "direct",
+    "reason": "直接给出标题需包含的对应章节号。"
+  },
+  {
+    "unit": "a883574786",
+    "label": "direct",
+    "reason": "回答对应章节号，与共有事实一致。"
+  },
+  {
+    "unit": "eb455b06bd",
+    "label": "direct",
+    "reason": "直接给出归还前须取出的存储卡。"
+  },
+  {
+    "unit": "0ac022b2d0",
+    "label": "direct",
+    "reason": "回答存储卡，与共有事实一致。"
+  },
+  {
+    "unit": "f2fa4ce3a1",
+    "label": "direct",
+    "reason": "回答十五分钟，题目已限定为时长上限。"
+  },
+  {
+    "unit": "38e67c66b2",
+    "label": "direct",
+    "reason": "直接给出最多十五分钟。"
+  },
+  {
+    "unit": "ffe8790e53",
+    "label": "direct",
+    "reason": "回答十五分钟，符合每次采访时长上限。"
+  },
+  {
+    "unit": "7441c4e275",
+    "label": "direct",
+    "reason": "准确给出每次最多十五分钟，未补充其他信息。"
+  },
+  {
+    "unit": "c1ed672574",
+    "label": "expanded",
+    "reason": "答出调用关系图，并补充共有事实支持的按模块标注要求。"
+  },
+  {
+    "unit": "b1be74b2e2",
+    "label": "expanded",
+    "reason": "答出调用关系图，并另说明按模块标注。"
+  },
+  {
+    "unit": "f482c3c5ac",
+    "label": "expanded",
+    "reason": "答出调用关系图，并给出一张和按模块标注这两个已有要求。"
+  },
+  {
+    "unit": "8661f7e136",
+    "label": "direct",
+    "reason": "直接给出时间轴单位毫秒。"
+  },
+  {
+    "unit": "fce55b1d2a",
+    "label": "direct",
+    "reason": "回答毫秒，与共有事实一致。"
+  },
+  {
+    "unit": "d5d1332c9e",
+    "label": "direct",
+    "reason": "准确给出信息楼210室，空格差异不影响地点。"
+  },
+  {
+    "unit": "28c3ee5b7f",
+    "label": "direct",
+    "reason": "直接给出值班地点信息楼 210 室。"
+  },
+  {
+    "unit": "1c9938e178",
+    "label": "direct",
+    "reason": "回答信息楼 210 室，与共有事实一致。"
+  },
+  {
+    "unit": "f5c2435c4e",
+    "label": "direct",
+    "reason": "直接给出可借天数三天。"
+  },
+  {
+    "unit": "882d89b19a",
+    "label": "direct",
+    "reason": "回答三天，与共有事实一致。"
+  },
+  {
+    "unit": "ee120aa5a8",
+    "label": "direct",
+    "reason": "直接给出预约次数两次。"
+  },
+  {
+    "unit": "670484d7fa",
+    "label": "direct",
+    "reason": "完整复述每组可预约两次，没有增加规则。"
+  },
+  {
+    "unit": "919680f8d6",
+    "label": "expanded",
+    "reason": "答出两次，并准确补充场地记录按周重置。"
+  },
+  {
+    "unit": "adb4d09bd9",
+    "label": "contradictory",
+    "reason": "含正确次数两次，但把记录按周重置推为预约额度每周恢复；资料未说明额度周期，这会影响预约安排。"
+  },
+  {
+    "unit": "b800d2cb84",
+    "label": "contradictory",
+    "reason": "含正确次数两次，但未获佐证地设定每周额度；每周重置的是场地记录，不能据此认定额度重置。"
+  },
+  {
+    "unit": "a5de345739",
+    "label": "expanded",
+    "reason": "答出预约两次，并补充共有事实中的记录按周重置。"
+  },
+  {
+    "unit": "97967cd2f3",
+    "label": "direct",
+    "reason": "直接给出答辩须提供的实体关系图。"
+  },
+  {
+    "unit": "6d64d0e8dd",
+    "label": "expanded",
+    "reason": "答出实体关系图，并补充共有事实所述用途，即说明表之间的关联。"
+  },
+  {
+    "unit": "19304c9284",
+    "label": "direct",
+    "reason": "直接给出必须登记的电池编号。"
+  },
+  {
+    "unit": "d181802737",
+    "label": "direct",
+    "reason": "回答电池编号，与共有事实一致。"
+  }
+]
